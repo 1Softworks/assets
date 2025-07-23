@@ -1,1 +1,1 @@
-VLX-INT-v1.0.7
+VLX-INT-v1.0.8
