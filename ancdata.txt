@@ -1,0 +1,4 @@
+{
+  "release": "Hydra V1 released!",
+  "test": "test"
+}
